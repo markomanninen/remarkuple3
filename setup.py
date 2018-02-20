@@ -27,7 +27,7 @@ setup(
   install_requires = [],
   version = version,
   description = 'Remarkuple - XML/HTML/SVG tag generation helper for Python',
-  long_description = read('README.md'),
+  long_description = read('README'),
   author = 'Marko Manninen',
   author_email = 'elonmedia@gmail.com',
 
