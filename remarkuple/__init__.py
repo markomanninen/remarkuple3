@@ -6,4 +6,4 @@ from .main import helper, concat
 from .svg import svg
 from .table import table
 
-__version__ = "0.0.3"
+__version__ = "0.1.1"

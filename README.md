@@ -1,10 +1,10 @@
 # Remarkuple 3
 
-XML/HTML tag generation factory/helper for Python 3
+Remarkuple - XML/HTML/SVG tag generation helper for Python 3
 
 Previous Python 2 version available at: https://github.com/markomanninen/remarkuple
 
-Please see Jupyter notebooks for study and examples:
+Please see the following Jupyter notebooks for study and examples:
 
 [Remarkuple 3 examples](http://nbviewer.jupyter.org/github/markomanninen/remarkuple3/blob/master/Remarkable%203%20examples.ipynb)
 

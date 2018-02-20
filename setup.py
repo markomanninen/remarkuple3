@@ -22,11 +22,11 @@ setup(
   packages = [name],
   package_dir = {name: name},
   package_data = {
-    name: ['*.py', '*.md']
+    name: ['*.py']
   },
   install_requires = [],
   version = version,
-  description = 'XML/HTML tag generation factory/helper for Python',
+  description = 'Remarkuple - XML/HTML/SVG tag generation helper for Python',
   long_description = read('README.md'),
   author = 'Marko Manninen',
   author_email = 'elonmedia@gmail.com',
